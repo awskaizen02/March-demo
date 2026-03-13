@@ -5,3 +5,5 @@ first line added for revert
 
 this is for sample
 code/command to check the reset
+
+git pull command checking from hub
