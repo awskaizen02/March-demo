@@ -7,4 +7,8 @@ this is for sample
 code/command to check the reset
 
 
+
 checking push command
+
+git pull command checking from hub
+
