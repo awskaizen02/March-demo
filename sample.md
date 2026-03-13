@@ -12,3 +12,4 @@ checking push command
 
 git pull command checking from hub
 
+git tag commad checking
